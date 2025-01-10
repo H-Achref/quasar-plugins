@@ -85,7 +85,10 @@
 }
 .product-title{
     font-size: 16px;
-    height: 50px;
+    height: 30px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 .product-price {
     font-size: 18px;

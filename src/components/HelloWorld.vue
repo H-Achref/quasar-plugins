@@ -26,6 +26,16 @@
           Wavesurfer.js is an open-source audio visualization library for creating interactive, customizable waveforms.
         </div>
       </q-timeline-entry>
+
+      <q-timeline-entry
+        title="APIs"
+        subtitle="December 30, 2024"
+        icon="api"
+      >
+        <div>
+          Fetching and integrating products from API.
+        </div>
+      </q-timeline-entry>
     </q-timeline>
   </div>
 </template>
